@@ -105,7 +105,7 @@ p {
 .box-div{
     display: grid;
     grid-template-columns: auto auto auto;
-    column-gap: 30px4;
+    column-gap: 30px;
 }
 
 .box1,
